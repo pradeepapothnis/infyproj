@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Helloworld2Ps.Web/1.0.0": {
+        "runtime": {
+          "Helloworld2Ps.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Helloworld2Ps.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
